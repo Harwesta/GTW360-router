@@ -13,3 +13,5 @@ USB: one Type-A USB2.0 port
 Additional features: ZigBee v3.0 NRF52840 SDIO
 
 Power: 5V/2A Type-C
+
+To control the modem via #RST, it is recommended to make a jumper (thin wire) between pin #42 processor board and omitted resistor R40 от base board.
