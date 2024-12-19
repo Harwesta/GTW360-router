@@ -14,4 +14,6 @@ Additional features: ZigBee v3.0 NRF52840 SDIO
 
 Power: 5V/2A Type-C
 
-To control the modem via #RST, it is recommended to make a jumper (thin wire) between pin #42 processor board and omitted resistor R40 от base board.
+To control the modem via #RST, it is recommended to make a jumper (thin wire) between pin #42 processor board and solder omitted resistor R40 от base board (see photo).
+
+![R40](https://github.com/user-attachments/assets/219d6cf5-937f-4626-9522-d65470f68731)
